@@ -16,3 +16,7 @@
   - The other school sizes and columns have the same values.
 #### Scores by School Type
   - For the Charter school types the % passing math, % passing reading and % overall passing have decrease while the other values and the     other type of school did not change. 
+
+The image below represents the student dataframe after I replaced the reading and math scores for ninth graders at Thomas High School with NaN.
+
+![student data](https://github.com/Kalkidanalemaye/School_District_Analysis/blob/master/Studentdata.jpg)
